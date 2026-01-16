@@ -1,0 +1,63 @@
+{
+    "profile": {
+        "name": "Nam Trần",
+        "username": "@Namtran5905",
+        "bio": "DESIGN • TECH • SOLUTIONS",
+        "avatar": ".\/src\/image\/Avatar.png"
+    },
+    "links": [
+        {
+            "id": "instagram",
+            "url": "https:\/\/www.instagram.com\/namtran5905",
+            "icon": ".\/src\/image\/icons\/instagram.png",
+            "title": "Instagram",
+            "subtitle": "Follow me"
+        },
+        {
+            "id": "tiktok",
+            "url": "https:\/\/www.tiktok.com\/@namtran5905",
+            "icon": ".\/src\/image\/icons\/tiktok.png",
+            "title": "TikTok",
+            "subtitle": "Short videos"
+        },
+        {
+            "id": "facebook",
+            "url": "https:\/\/fb.com\/namtran5905",
+            "icon": ".\/src\/image\/icons\/facebook.png",
+            "title": "Facebook",
+            "subtitle": "Add me"
+        },
+        {
+            "id": "threads",
+            "url": "https:\/\/www.threads.net\/@namtran5905",
+            "icon": ".\/src\/image\/icons\/threads.png",
+            "title": "Threads",
+            "subtitle": "Follow me"
+        },
+        {
+            "id": "zalo",
+            "url": "https:\/\/zaloapp.com\/qr\/p\/1re1dklrzok69",
+            "icon": ".\/src\/image\/icons\/zalo.png",
+            "title": "Zalo",
+            "subtitle": "My Zalo"
+        },
+        {
+            "id": "website",
+            "url": "https:\/\/drive.tranvohoangnam.id.vn\/",
+            "icon": "https:\/\/drive.tranvohoangnam.id.vn\/src\/image\/favicon.ico",
+            "title": "My Drive",
+            "subtitle": "My Drive"
+        }
+    ],
+    "music": {
+        "default": {
+            "title": "Nắng Có Mang Em Về",
+            "artist": "Shartnuss ft Tr.D & Phankeo",
+            "src": "https:\/\/namtran592005.github.io\/CDN\/music\/NangCoMangEmVe.mp3"
+        },
+        "loveMode": {
+            "src": "https:\/\/namtran592005.github.io\/CDN\/music\/InABeautifulWay.mp3"
+        }
+    },
+    "qrCode": ".\/src\/image\/QR_Code_NamTran.png"
+}
